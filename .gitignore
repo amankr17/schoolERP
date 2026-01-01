@@ -1,0 +1,15 @@
+# Terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+crash.log
+
+# Secrets
+*.pem
+*.key
+.env
+
+# OS / Editor
+.DS_Store
+.vscode/*
+!.vscode/settings.json
